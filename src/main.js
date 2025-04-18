@@ -6,7 +6,6 @@ import { createRouter, createWebHistory } from 'vue-router'
 
 import App from './App.vue'
 
-import HomePage from './pages/home.vue'
 import AboutPage from './pages/about.vue'
 import MembersPage from './pages/members.vue'
 import RoadmapPage from './pages/roadmap.vue'
@@ -19,11 +18,6 @@ const router = createRouter({
     routes: [
         {
             path: '/',
-            name: 'home',
-            component: HomePage
-        },
-        {
-            path: '/about',
             name: 'about',
             component: AboutPage
         },
