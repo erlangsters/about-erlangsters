@@ -1,29 +1,38 @@
-# erlangsters
+# Erlangsters - Website
 
-This template should help get you started developing with Vue 3 in Vite.
+This is the source code of the **Erlangsters** website which is available
+at https://about.erlangsters.org/.
 
-## Recommended IDE Setup
+- Developed and tested with Node.js 22 LTS.
+- Uses the [Vue.js 3.x](https://v3.vuejs.org/) UI framework.
+- Uses the [Bootstrap 5.x](https://getbootstrap.com/) UI library.
+- Designed for all screen sizes.
+- No versioning is used, updated as needed.
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
+It's a open-source software developed by the community.
 
-## Customize configuration
+## Useful commands
 
-See [Vite Configuration Reference](https://vite.dev/config/).
+Set up a Node.js environment.
 
-## Project Setup
+```
+nvm use --lts
+```
 
-```sh
+Install the dependencies.
+
+```
 npm install
 ```
 
-### Compile and Hot-Reload for Development
+Run the development server.
 
-```sh
+```
 npm run dev
 ```
 
-### Compile and Minify for Production
+Build the project for production.
 
-```sh
+```
 npm run build
 ```
