@@ -11,7 +11,7 @@
 <!-- center -->
 <div class="container">
   <div class="text-center text-white mb-5">
-    <p class="fs-2">A community of Erlang developers.</p>
+    <p class="fs-2">Community of Erlang developers.</p>
     <p class="fs-4 w-75 mx-auto">
 A group of highly-trained Erlang monkey coders who aims to bring quality tools
 to the community.
@@ -25,7 +25,7 @@ to the community.
   style="height: 500px;"
 >
   <div class="card-body d-flex flex-column justify-content-between">
-    <h5 class="card-title">Library Collection</h5>
+    <h5 class="card-title">Packages Collection</h5>
     <p class="card-text text-start">
 A collection of high-quality Erlang libraries and applications for BEAM-based
 projects.
@@ -77,7 +77,7 @@ top of it, and we reduce the attack surface of the runtime system.
   style="height: 500px;"
 >
   <div class="card-body d-flex flex-column justify-content-between">
-    <h5 class="card-title">BEAM Package Registry</h5>
+    <h5 class="card-title">BEAM Packages</h5>
     <p class="card-text text-start">
 Heavily inspired by Node.js and npm, the BEAM Package Registry is a public
 registry of BEAM packages.
@@ -100,6 +100,6 @@ but also opens door to executing BEAM-based scripts trivially.
 </div>
 
 <!-- bottom -->
-<div class="text-center text-white mb-3">Copyright © 2024</div>
+<div class="text-center text-white mb-3">Sponsored by Byteplug LLC - Copyright © 2024</div>
   </div>
 </template>
