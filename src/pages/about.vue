@@ -35,7 +35,7 @@ projects.
   style="height: 350px;"
 >
   <div class="card-body d-flex flex-column justify-content-between py-5 px-5">
-    <h4 class="card-title">OTPless Erlang</h4>
+    <h4 class="card-title">OTPless Erlang*</h4>
     <p class="card-text text-start">
 A streamlined Erlang distribution designed to deliver the core of Erlang/OTP -
 the Erlang runtime system, also known as the BEAM.
@@ -44,6 +44,7 @@ the Erlang runtime system, also known as the BEAM.
       <router-link to="/otpless-erlang" class="btn btn-primary me-2">Learn More</router-link>
       <a href="https://otpless-erlang.org" class="btn btn-outline-primary">Go Website</a>
     </div>
+    <div>*In development</div>
   </div>
 </div>
     </div>
@@ -54,7 +55,7 @@ the Erlang runtime system, also known as the BEAM.
   style="height: 350px;"
 >
   <div class="card-body d-flex flex-column justify-content-between py-5 px-5">
-    <h4 class="card-title">BEAM Packages</h4>
+    <h4 class="card-title">BEAM Packages*</h4>
     <p class="card-text text-start">
 Heavily inspired by Node.js and npm, the BEAM Package Registry is a public
 registry of BEAM packages.
@@ -63,6 +64,7 @@ registry of BEAM packages.
       <router-link to="/beam-packages" class="btn btn-primary me-2">Learn More</router-link>
       <a href="https://beam-packages.org" class="btn btn-outline-primary">Go Website</a>
     </div>
+    <div>*In development</div>
   </div>
 </div>
     </div>

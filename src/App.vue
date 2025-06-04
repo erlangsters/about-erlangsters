@@ -1,5 +1,5 @@
 <template>
-  <div class="bg-primary h-100 flex-grow-1 d-flex flex-column justify-content-between">
+  <div class="h-100 flex-grow-1 d-flex flex-column justify-content-between">
 <!-- top -->
 <div class="container d-flex justify-content-around my-3">
   <router-link class="text-white" to="/">About</router-link>
