@@ -1,6 +1,7 @@
 <template>
 <div class="container">
   <div class="text-center text-white mb-5">
+    <img src="@/assets/image.svg" height="250" alt="Erlangsters logo"/>
     <p class="fs-2">Community of Erlang developers.</p>
     <p class="fs-4 w-75 mx-auto">
 A group of highly-trained Erlang monkey coders who aims to bring quality tools
