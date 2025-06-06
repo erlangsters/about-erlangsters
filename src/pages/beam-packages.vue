@@ -2,10 +2,10 @@
   <div class="container">
     <div class="card mb-3 h-100">
       <div class="row g-0 h-100 flex-grow-1">
-        <div class="col-md-4 texture">
+        <div class="col-md-4 texture order-md-1 order-1" style="min-height: 150px;">
           <!-- Left side content if needed -->
         </div>
-        <div class="col-md-8 d-flex flex-column">
+        <div class="col-md-8 d-flex flex-column order-md-2 order-2">
           <div class="card-body flex-grow-1 px-5 py-5">
             <h3 class="card-title mb-3">BEAM Packages</h3>
             <p class="card-text">
