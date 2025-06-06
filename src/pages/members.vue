@@ -32,6 +32,12 @@
     <div class="col-12 col-md-6 col-lg-3 order-2">
       <!-- member 2 -->
       <div class="card h-100" style="min-height: 400px;">
+        <img
+          src="data:image/svg+xml,%3Csvg xmlns='http://www.w3.org/2000/svg' width='100%25' height='180' viewBox='0 0 100 100'%3E%3Crect width='100' height='100' fill='%23dee2e6'/%3E%3Ccircle cx='50' cy='35' r='15' fill='%23495057'/%3E%3Cpath d='M25,85 Q50,35 75,85' fill='%23495057'/%3E%3C/svg%3E"
+          class="card-img-top"
+          alt="Placeholder"
+          style="height: 180px; object-fit: cover;"
+        >
         <div class="card-body d-flex flex-column justify-content-center text-center">
           <h5 class="card-title">You?</h5>
           <p class="card-text">
