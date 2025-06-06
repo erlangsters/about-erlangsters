@@ -11,7 +11,7 @@
 <!-- center -->
 <router-view></router-view>
 <!-- bottom -->
-<div class="text-center text-white mb-3">Sponsored by Byteplug LLC - Copyright © 2024</div>
+<div class="text-center text-white my-3">Sponsored by Byteplug LLC - Copyright © 2024</div>
   </div>
 </template>
 
